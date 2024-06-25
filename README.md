@@ -2,7 +2,6 @@
 
 <br>Implementar um sistema simples de atendimento com a oferta de 3 opções através de um seletor:<br>
 
-<br>
 <br>0. Sair
 <br>1. Gerar senha
 <br>2. Realizar atendimento<br>
